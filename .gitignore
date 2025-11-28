@@ -1,0 +1,5 @@
+.env
+models/balanced_model_communication.pth
+models/balanced_model_emotional_intelligence.pth
+models/balanced_model_problem_solving.pth
+models/balanced_model_technical_knowledge.pth
